@@ -30,10 +30,18 @@ We welcome contributions from the community! If you wish to contribute to this p
    ```bash
    git checkout -b feature/YourFeatureName
  
-3. **Make your changes.**: 
-   ```bash
-   git checkout -b feature/YourFeatureName
-  
+3. **Make Your Changes**.
+
 4. **Commit Your Changes**:
-```bash
-git commit -m "Add feature XYZ"
+   ```bash
+   git commit -m "Add feature XYZ"
+
+5. **Push to Your Branch**:
+   ```bash
+   git push origin feature/YourFeatureName
+
+6. **Open a Pull Request**: Go to the original repository and click on "New Pull Request." Provide a clear description of your changes and why they should be merged.
+
+### 💬 Feedback
+
+I appreciate any feedback on the application! If you encounter issues or have suggestions for improvements, please open an issue in the repository. Your input is valuable for enhancing the project!
