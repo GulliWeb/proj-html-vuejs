@@ -25,7 +25,7 @@ Watch the project demo here: [MaxCoach Clone Andrea Gulli](https://vimeo.com/man
 1. Clone the repository:
    ```bash
    git clone https://github.com/GulliWeb/Boolflix.git
-   cd Boolflix
+   cd proj-html-vuejs
 
 2. Install dependencies:
    ```bash
